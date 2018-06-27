@@ -8,3 +8,8 @@ My own compiled list of security repositories and other useful resources. Feel f
 
 # Pen-test methodology
 * [0daysecurity](http://www.0daysecurity.com/pentest.html): a proposed methodology with different suggested commands
+
+# OSCP feedback
+Those feedbacks also includes very interesting links. To check out before and during the labs and exam if you're stuck :)
+* A Detailed Guide on OSCP Preparation – From Newbie to OSCP : [link](http://niiconsulting.com/checkmate/2017/06/a-detail-guide-on-oscp-preparation-from-newbie-to-oscp/)
+* And I did OSCP! : [link](https://medium.com/@m4lv0id/and-i-did-oscp-589babbfea19)
